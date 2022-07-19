@@ -5,9 +5,7 @@ PHP: Class para el tratamiento de Fechas.
 <b>Requerimientos</b>
 PHP 5.0 o superior
 
-Ejemplo de uso 
-
-<?php
+Ejemplo de uso   <?php
 
 require_once 'Fechas.php';
 
